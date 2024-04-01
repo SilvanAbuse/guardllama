@@ -639,7 +639,7 @@ func (s *TunnelService) validateAvailablePorts(ctx context.Context) error {
 	}
 
 	if len(tunList.Items) >= numOfPorts {
-		return fmt.Errorf("no more ports available debug")
+		return fmt.Errorf("no more ports available")
 	}
 
 	return nil

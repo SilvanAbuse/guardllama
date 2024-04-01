@@ -112,7 +112,7 @@ message ServerConfig {
       K3s k3s = 2;
       K3d k3d = 3;
     }
-    VpnPortRange vpn_port_range = 1000;
+    VpnPortRange vpn_port_range = 2500;
     string host = 5;
   }
 

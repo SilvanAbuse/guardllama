@@ -145,7 +145,7 @@ func defaultServerConfig() (*apiv1.ServerConfig, error) {
 			KubeConfig: filepath.Join(dir, "kubeconfig.yml"),
 			VpnPortRange: &apiv1.ServerConfig_Cluster_VpnPortRange{
 				FromPort: 30001,
-				ToPort:   31005,
+				ToPort:   32505,
 				Protocol: apiv1.ServerConfig_Cluster_VpnPortRange_UDP,
 			},
 		},
