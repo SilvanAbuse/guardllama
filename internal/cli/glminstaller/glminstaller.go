@@ -3,8 +3,8 @@ package glminstaller
 import (
 	"os"
 
-	"github.com/guardllamanet/guardllama/internal/cli"
-	"github.com/guardllamanet/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/cli"
+	"github.com/SilvanAbuse/guardllama/internal/log"
 	"github.com/spf13/cobra"
 	"golang.org/x/exp/slog"
 )

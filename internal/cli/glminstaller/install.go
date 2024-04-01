@@ -3,9 +3,9 @@ package glminstaller
 import (
 	"context"
 
-	"github.com/guardllamanet/guardllama/internal/installer"
-	"github.com/guardllamanet/guardllama/internal/log"
-	apiv1 "github.com/guardllamanet/guardllama/proto/gen/api/v1"
+	"github.com/SilvanAbuse/guardllama/internal/installer"
+	"github.com/SilvanAbuse/guardllama/internal/log"
+	apiv1 "github.com/SilvanAbuse/guardllama/proto/gen/api/v1"
 	"github.com/spf13/cobra"
 )
 

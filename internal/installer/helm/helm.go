@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/guardllamanet/guardllama/internal/log"
-	"github.com/guardllamanet/guardllama/internal/util"
+	"github.com/SilvanAbuse/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/util"
 	"golang.org/x/sync/errgroup"
 	"helm.sh/helm/v3/pkg/action"
 	"helm.sh/helm/v3/pkg/chart/loader"

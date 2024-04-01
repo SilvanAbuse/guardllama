@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/guardllamanet/guardllama/internal/cli/glmmgr"
+	"github.com/SilvanAbuse/guardllama/internal/cli/glmmgr"
 	"golang.org/x/exp/slog"
 )
 

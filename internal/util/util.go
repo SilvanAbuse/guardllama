@@ -11,8 +11,8 @@ import (
 	"time"
 
 	externalip "github.com/glendc/go-external-ip"
-	"github.com/guardllamanet/guardllama/internal/build"
-	glog "github.com/guardllamanet/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/build"
+	glog "github.com/SilvanAbuse/guardllama/internal/log"
 )
 
 // MachineIP returns the external ip if it's available,

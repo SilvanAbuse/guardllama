@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net"
 
-	apiv1 "github.com/guardllamanet/guardllama/proto/gen/api/v1"
+	apiv1 "github.com/SilvanAbuse/guardllama/proto/gen/api/v1"
 	"golang.zx2c4.com/wireguard/wgctrl/wgtypes"
 	"sigs.k8s.io/yaml"
 )

@@ -34,8 +34,8 @@ GuardLlama is a cutting-edge open-source platform that redefines online protecti
 
 Need assistance with GuardLlama?
 
-- [Community Forum](https://github.com/guardllamanet/guardllama/discussions): Ideal for help with building and discussing GuardLlama.
-- [Github Issues](https://github.com/guardllamanet/guardllama/issues): For reporting bugs and requesting features encountered while using GuardLlama.
+- [Community Forum](https://github.com/SilvanAbuse/guardllama/discussions): Ideal for help with building and discussing GuardLlama.
+- [Github Issues](https://github.com/SilvanAbuse/guardllama/issues): For reporting bugs and requesting features encountered while using GuardLlama.
 - [Twitter](https://twitter.com/guardllamanet): Stay up-to-date with the latest GuardLlama news.
 - [Discord](https://discord.guardllama.net): Connect with the community, share your applications, and hang out.
 

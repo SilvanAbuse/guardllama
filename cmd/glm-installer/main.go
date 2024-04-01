@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/guardllamanet/guardllama/internal/cli/glminstaller"
+	"github.com/SilvanAbuse/guardllama/internal/cli/glminstaller"
 	"golang.org/x/exp/slog"
 )
 

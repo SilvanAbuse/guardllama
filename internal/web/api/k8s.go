@@ -3,8 +3,8 @@ package api
 import (
 	"context"
 
-	"github.com/guardllamanet/guardllama/internal/util"
-	apiv1 "github.com/guardllamanet/guardllama/proto/gen/api/v1"
+	"github.com/SilvanAbuse/guardllama/internal/util"
+	apiv1 "github.com/SilvanAbuse/guardllama/proto/gen/api/v1"
 	corev1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"sigs.k8s.io/controller-runtime/pkg/client"

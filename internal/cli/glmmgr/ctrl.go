@@ -4,8 +4,8 @@ import (
 	"context"
 	"syscall"
 
-	"github.com/guardllamanet/guardllama/internal/controller"
-	"github.com/guardllamanet/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/controller"
+	"github.com/SilvanAbuse/guardllama/internal/log"
 	"github.com/oklog/run"
 	"github.com/spf13/cobra"
 )

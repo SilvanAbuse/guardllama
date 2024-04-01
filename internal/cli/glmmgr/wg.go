@@ -4,8 +4,8 @@ import (
 	"context"
 	"net"
 
-	"github.com/guardllamanet/guardllama/internal/log"
-	"github.com/guardllamanet/guardllama/internal/wg"
+	"github.com/SilvanAbuse/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/wg"
 	"github.com/spf13/cobra"
 )
 

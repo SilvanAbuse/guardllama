@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/guardllamanet/guardllama/proto/gen/api/v1/swagger/models"
+	"github.com/SilvanAbuse/guardllama/proto/gen/api/v1/swagger/models"
 )
 
 // NewAuthServiceAuthenticateParams creates a new AuthServiceAuthenticateParams object,

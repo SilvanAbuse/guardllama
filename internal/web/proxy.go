@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/go-chi/chi/v5"
-	glmv1 "github.com/guardllamanet/guardllama/api/v1"
-	"github.com/guardllamanet/guardllama/internal/web/api"
+	glmv1 "github.com/SilvanAbuse/guardllama/api/v1"
+	"github.com/SilvanAbuse/guardllama/internal/web/api"
 	apierrors "k8s.io/apimachinery/pkg/api/errors"
 	"sigs.k8s.io/controller-runtime/pkg/client"
 )

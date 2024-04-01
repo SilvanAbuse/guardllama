@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	glmv1 "github.com/guardllamanet/guardllama/api/v1"
-	"github.com/guardllamanet/guardllama/internal/log"
+	glmv1 "github.com/SilvanAbuse/guardllama/api/v1"
+	"github.com/SilvanAbuse/guardllama/internal/log"
 	"k8s.io/client-go/kubernetes/scheme"
 )
 

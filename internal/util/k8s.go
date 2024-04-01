@@ -1,7 +1,7 @@
 package util
 
 import (
-	v1 "github.com/guardllamanet/guardllama/proto/gen/api/v1"
+	v1 "github.com/SilvanAbuse/guardllama/proto/gen/api/v1"
 	"k8s.io/client-go/tools/clientcmd"
 	clientcmdapi "k8s.io/client-go/tools/clientcmd/api"
 )

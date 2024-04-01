@@ -1,4 +1,4 @@
-module github.com/guardllamanet/guardllama
+module github.com/SilvanAbuse/guardllama
 
 go 1.20
 

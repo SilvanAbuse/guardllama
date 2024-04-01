@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"runtime"
 
-	"github.com/guardllamanet/guardllama/internal/build"
+	"github.com/SilvanAbuse/guardllama/internal/build"
 	"go4.org/types"
 )
 

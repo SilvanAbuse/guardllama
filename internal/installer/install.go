@@ -8,15 +8,15 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/guardllamanet/guardllama/charts"
-	"github.com/guardllamanet/guardllama/internal/build"
-	"github.com/guardllamanet/guardllama/internal/controller"
-	"github.com/guardllamanet/guardllama/internal/installer/helm"
-	"github.com/guardllamanet/guardllama/internal/installer/k3d"
-	"github.com/guardllamanet/guardllama/internal/installer/k3s"
-	"github.com/guardllamanet/guardllama/internal/log"
-	"github.com/guardllamanet/guardllama/internal/util"
-	apiv1 "github.com/guardllamanet/guardllama/proto/gen/api/v1"
+	"github.com/SilvanAbuse/guardllama/charts"
+	"github.com/SilvanAbuse/guardllama/internal/build"
+	"github.com/SilvanAbuse/guardllama/internal/controller"
+	"github.com/SilvanAbuse/guardllama/internal/installer/helm"
+	"github.com/SilvanAbuse/guardllama/internal/installer/k3d"
+	"github.com/SilvanAbuse/guardllama/internal/installer/k3s"
+	"github.com/SilvanAbuse/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/util"
+	apiv1 "github.com/SilvanAbuse/guardllama/proto/gen/api/v1"
 )
 
 const (

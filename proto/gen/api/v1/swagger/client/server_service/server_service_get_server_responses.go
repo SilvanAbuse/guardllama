@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/guardllamanet/guardllama/proto/gen/api/v1/swagger/models"
+	"github.com/SilvanAbuse/guardllama/proto/gen/api/v1/swagger/models"
 )
 
 // ServerServiceGetServerReader is a Reader for the ServerServiceGetServer structure.

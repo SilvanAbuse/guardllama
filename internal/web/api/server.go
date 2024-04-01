@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/guardllamanet/guardllama/internal/build"
-	"github.com/guardllamanet/guardllama/internal/log"
-	"github.com/guardllamanet/guardllama/internal/util"
-	apiv1 "github.com/guardllamanet/guardllama/proto/gen/api/v1"
+	"github.com/SilvanAbuse/guardllama/internal/build"
+	"github.com/SilvanAbuse/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/util"
+	apiv1 "github.com/SilvanAbuse/guardllama/proto/gen/api/v1"
 	apierrors "k8s.io/apimachinery/pkg/api/errors"
 )
 

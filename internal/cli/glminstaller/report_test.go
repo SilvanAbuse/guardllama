@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/guardllamanet/guardllama/internal/tele"
+	"github.com/SilvanAbuse/guardllama/internal/tele"
 	"github.com/spf13/cobra"
 )
 

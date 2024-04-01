@@ -10,10 +10,10 @@ import (
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 	"github.com/google/uuid"
-	"github.com/guardllamanet/guardllama/internal/e2etest/testutil"
-	"github.com/guardllamanet/guardllama/internal/web/api"
-	"github.com/guardllamanet/guardllama/proto/gen/api/v1/swagger/client"
-	"github.com/guardllamanet/guardllama/proto/gen/api/v1/swagger/client/tunnel_service"
+	"github.com/SilvanAbuse/guardllama/internal/e2etest/testutil"
+	"github.com/SilvanAbuse/guardllama/internal/web/api"
+	"github.com/SilvanAbuse/guardllama/proto/gen/api/v1/swagger/client"
+	"github.com/SilvanAbuse/guardllama/proto/gen/api/v1/swagger/client/tunnel_service"
 )
 
 func TestWGConn(t *testing.T) {

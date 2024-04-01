@@ -6,7 +6,7 @@ domain: guardllama.net
 layout:
 - go.kubebuilder.io/v3
 projectName: guardllama
-repo: github.com/guardllamanet/guardllama
+repo: github.com/SilvanAbuse/guardllama
 resources:
 - api:
     crdVersion: v1
@@ -15,7 +15,7 @@ resources:
   domain: guardllama.net
   group: tunnel
   kind: Tunnel
-  path: github.com/guardllamanet/guardllama/api/v1
+  path: github.com/SilvanAbuse/guardllama/api/v1
   version: v1
   webhooks:
     conversion: true

@@ -17,7 +17,7 @@ build: internal/web/ui/dist/flutter.js
 	go build -o $(TOOLS_DIR)/glmmgr $(BUILD_FLAGS) ./cmd/glmmgr
 	go build -o $(TOOLS_DIR)/glm-installer $(BUILD_FLAGS) ./cmd/glm-installer
 
-build_with_tele: BUILD_FLAGS=-tags tele -ldflags "-s -w -X github.com/guardllamanet/guardllama/internal/tele.TeleServerUsername=$${GUARDLLAMA_TELE_SERVER_USERNAME} -X github.com/guardllamanet/guardllama/internal/tele.TeleServerPassword=$${GUARDLLAMA_TELE_SERVER_PASSWORD}"
+build_with_tele: BUILD_FLAGS=-tags tele -ldflags "-s -w -X github.com/SilvanAbuse/guardllama/internal/tele.TeleServerUsername=$${GUARDLLAMA_TELE_SERVER_USERNAME} -X github.com/SilvanAbuse/guardllama/internal/tele.TeleServerPassword=$${GUARDLLAMA_TELE_SERVER_PASSWORD}"
 build_with_tele: build
 
 internal/web/ui/dist/flutter.js:

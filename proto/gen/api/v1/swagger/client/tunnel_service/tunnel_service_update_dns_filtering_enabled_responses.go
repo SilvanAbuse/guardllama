@@ -14,7 +14,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"github.com/guardllamanet/guardllama/proto/gen/api/v1/swagger/models"
+	"github.com/SilvanAbuse/guardllama/proto/gen/api/v1/swagger/models"
 )
 
 // TunnelServiceUpdateDNSFilteringEnabledReader is a Reader for the TunnelServiceUpdateDNSFilteringEnabled structure.

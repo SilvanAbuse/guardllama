@@ -3,11 +3,11 @@ package installer
 import (
 	"context"
 
-	"github.com/guardllamanet/guardllama/internal/build"
-	"github.com/guardllamanet/guardllama/internal/installer/k3d"
-	"github.com/guardllamanet/guardllama/internal/installer/k3s"
-	"github.com/guardllamanet/guardllama/internal/log"
-	apiv1 "github.com/guardllamanet/guardllama/proto/gen/api/v1"
+	"github.com/SilvanAbuse/guardllama/internal/build"
+	"github.com/SilvanAbuse/guardllama/internal/installer/k3d"
+	"github.com/SilvanAbuse/guardllama/internal/installer/k3s"
+	"github.com/SilvanAbuse/guardllama/internal/log"
+	apiv1 "github.com/SilvanAbuse/guardllama/proto/gen/api/v1"
 )
 
 func Uninstall(ctx context.Context, cfg *apiv1.ServerConfig) error {

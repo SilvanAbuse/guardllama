@@ -3,8 +3,8 @@ package glminstaller
 import (
 	"context"
 
-	"github.com/guardllamanet/guardllama/internal/installer"
-	"github.com/guardllamanet/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/installer"
+	"github.com/SilvanAbuse/guardllama/internal/log"
 	"github.com/spf13/cobra"
 )
 

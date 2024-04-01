@@ -8,7 +8,7 @@ import "google/protobuf/duration.proto";
 import "protoc-gen-openapiv2/options/annotations.proto";
 import "validate/validate.proto";
 
-option go_package = "github.com/guardllamanet/guardllama/proto/gen/api/v1";
+option go_package = "github.com/SilvanAbuse/guardllama/proto/gen/api/v1";
 
 service WireGuardService {
   rpc GetWireGuardDevice(GetWireGuardDeviceRequest) returns (GetWireGuardDeviceResponse) {

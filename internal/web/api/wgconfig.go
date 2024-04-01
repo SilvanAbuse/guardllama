@@ -5,7 +5,7 @@ import (
 	"strings"
 	"text/template"
 
-	apiv1 "github.com/guardllamanet/guardllama/proto/gen/api/v1"
+	apiv1 "github.com/SilvanAbuse/guardllama/proto/gen/api/v1"
 )
 
 var (

@@ -10,10 +10,10 @@ import (
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/guardllamanet/guardllama/proto/gen/api/v1/swagger/client/auth_service"
-	"github.com/guardllamanet/guardllama/proto/gen/api/v1/swagger/client/server_service"
-	"github.com/guardllamanet/guardllama/proto/gen/api/v1/swagger/client/tunnel_service"
-	"github.com/guardllamanet/guardllama/proto/gen/api/v1/swagger/client/wire_guard_service"
+	"github.com/SilvanAbuse/guardllama/proto/gen/api/v1/swagger/client/auth_service"
+	"github.com/SilvanAbuse/guardllama/proto/gen/api/v1/swagger/client/server_service"
+	"github.com/SilvanAbuse/guardllama/proto/gen/api/v1/swagger/client/tunnel_service"
+	"github.com/SilvanAbuse/guardllama/proto/gen/api/v1/swagger/client/wire_guard_service"
 )
 
 // Default API v1 API proto HTTP client.

@@ -9,9 +9,9 @@ import (
 	"reflect"
 
 	"github.com/gogo/protobuf/proto"
-	"github.com/guardllamanet/guardllama/internal/util"
-	"github.com/guardllamanet/guardllama/internal/web/api"
-	apiv1 "github.com/guardllamanet/guardllama/proto/gen/api/v1"
+	"github.com/SilvanAbuse/guardllama/internal/util"
+	"github.com/SilvanAbuse/guardllama/internal/web/api"
+	apiv1 "github.com/SilvanAbuse/guardllama/proto/gen/api/v1"
 	"github.com/imdario/mergo"
 	"github.com/mitchellh/go-homedir"
 	"github.com/sethvargo/go-password/password"

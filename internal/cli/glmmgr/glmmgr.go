@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/guardllamanet/guardllama/internal/cli"
-	"github.com/guardllamanet/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/cli"
+	"github.com/SilvanAbuse/guardllama/internal/log"
 	"github.com/ory/viper"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"

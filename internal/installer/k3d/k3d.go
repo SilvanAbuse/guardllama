@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/guardllamanet/guardllama/internal/log"
-	"github.com/guardllamanet/guardllama/internal/util"
-	v1 "github.com/guardllamanet/guardllama/proto/gen/api/v1"
+	"github.com/SilvanAbuse/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/util"
+	v1 "github.com/SilvanAbuse/guardllama/proto/gen/api/v1"
 	k3dutil "github.com/k3d-io/k3d/v5/cmd/util"
 	"github.com/k3d-io/k3d/v5/pkg/client"
 	"github.com/k3d-io/k3d/v5/pkg/config"

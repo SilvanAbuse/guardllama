@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/guardllamanet/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/log"
 )
 
 var (

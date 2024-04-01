@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/go-chi/jwtauth"
-	apiv1 "github.com/guardllamanet/guardllama/proto/gen/api/v1"
+	apiv1 "github.com/SilvanAbuse/guardllama/proto/gen/api/v1"
 	"github.com/lestrrat-go/jwx/jwt"
 	"google.golang.org/protobuf/types/known/timestamppb"
 )

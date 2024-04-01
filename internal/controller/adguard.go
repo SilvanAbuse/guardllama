@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"html/template"
 
-	glmv1 "github.com/guardllamanet/guardllama/api/v1"
+	glmv1 "github.com/SilvanAbuse/guardllama/api/v1"
 )
 
 const (

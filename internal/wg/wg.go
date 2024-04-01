@@ -11,7 +11,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/guardllamanet/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/log"
 	"golang.zx2c4.com/wireguard/wgctrl/wgtypes"
 )
 

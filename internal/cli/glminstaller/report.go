@@ -6,9 +6,9 @@ import (
 
 	"github.com/denisbrodbeck/machineid"
 	"github.com/google/uuid"
-	"github.com/guardllamanet/guardllama/internal/build"
-	"github.com/guardllamanet/guardllama/internal/log"
-	"github.com/guardllamanet/guardllama/internal/tele"
+	"github.com/SilvanAbuse/guardllama/internal/build"
+	"github.com/SilvanAbuse/guardllama/internal/log"
+	"github.com/SilvanAbuse/guardllama/internal/tele"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 	"go4.org/types"

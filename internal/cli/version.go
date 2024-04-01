@@ -3,7 +3,7 @@ package cli
 import (
 	"fmt"
 
-	"github.com/guardllamanet/guardllama/internal/build"
+	"github.com/SilvanAbuse/guardllama/internal/build"
 	"github.com/spf13/cobra"
 )
 

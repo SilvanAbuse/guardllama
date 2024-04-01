@@ -9,7 +9,7 @@ RUN --mount=target=. \
     --mount=type=cache,target=/root/.cache/go-build \
     --mount=type=cache,target=/go/pkg \
     GOOS=$TARGETOS GOARCH=$TARGETARCH go install \
-    -ldflags "-s -w -X github.com/guardllamanet/guardllama/internal/build.Version=$BUILD_VERSION -X github.com/guardllamanet/guardllama/internal/build.Date=$BUILD_DATE" \
+    -ldflags "-s -w -X github.com/SilvanAbuse/guardllama/internal/build.Version=$BUILD_VERSION -X github.com/SilvanAbuse/guardllama/internal/build.Date=$BUILD_DATE" \
     ./cmd/glmmgr/...
 
 FROM gcr.io/distroless/static

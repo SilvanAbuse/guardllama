@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/google/go-cmp/cmp"
-	glmv1 "github.com/guardllamanet/guardllama/api/v1"
-	"github.com/guardllamanet/guardllama/internal/e2etest/testutil"
+	glmv1 "github.com/SilvanAbuse/guardllama/api/v1"
+	"github.com/SilvanAbuse/guardllama/internal/e2etest/testutil"
 	"github.com/rs/xid"
 	"golang.org/x/crypto/curve25519"
 	"golang.zx2c4.com/wireguard/device"
